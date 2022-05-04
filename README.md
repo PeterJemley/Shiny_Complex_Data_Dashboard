@@ -47,4 +47,5 @@ It includes optional deployment versions of the project with [*Docker*](https://
 * 6 — Initialize the prototype dashboard with static plots from the data summaries;
 
 * 7 — Code the project to accept bespoke search criteria from researchers, and to make the search and plots interactive;
+
 * 8 — Create a package for the project, and deploy it.
