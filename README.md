@@ -28,4 +28,6 @@ While creating the dashboard for serving complex data to researchers in the **pr
 
 * a JavaScript-based library for interactive plots with [*plotly*](https://plotly.com).  
 
-The project then deploys an R dashboard application with the framework for building and deploying Shiny apps, [*golem*](https://golemverse.org); and other optional deployment  versions of the project with [*Docker*](https://www.docker.com).
+The project then deploys an R dashboard application with the framework for building and deploying Shiny apps, [*golem*](https://golemverse.org).
+
+It includes optional deployment versions of the project with [*Docker*](https://www.docker.com).
