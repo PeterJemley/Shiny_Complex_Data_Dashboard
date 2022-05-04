@@ -12,7 +12,7 @@ The project’s first phase is exploratory. Its second phase readies and puts th
 
 In the **exploratory phase** we —
 
-* creates a reproducible environment for such an exploratory data project using [*renv*](https://rstudio.github.io/renv/articles/renv.html) dependency management in an isolated project environment;
+* create a reproducible environment for such an exploratory data project using [*renv*](https://rstudio.github.io/renv/articles/renv.html) dependency management in an isolated project environment;
 
 * work with cancer genomic data analyzed with the [*maftools*](https://bioconductor.org/packages/release/bioc/html/maftools.html) "Mutation Annotation Format";  
 
