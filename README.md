@@ -31,3 +31,20 @@ While creating the dashboard for serving complex data to researchers in the **pr
 The project then deploys an R dashboard application with the framework for building and deploying Shiny apps, [*golem*](https://golemverse.org).
 
 It includes optional deployment versions of the project with [*Docker*](https://www.docker.com).
+
+**Workflow Outline —**
+
+* 1 — Create a reproducible, exploratory environment for the genomic oncology data;
+
+* 2 — import an apposite open-source dataset;
+
+* 3 — View, explore, prioritize, and summarize properties of the data with both general software statistical analysis tools and a collection of functions (i.e. a “package”) from the bioinformatics domain;
+
+* 4 — Create common diagnostic plots for the bioinformatics-oncology domain;
+
+* 5 — Create a fresh dashboard project;
+
+* 6 — Initialize the prototype dashboard with static plots from the data summaries;
+
+* 7 — Code the project to accept bespoke search criteria from researchers, and to make the search and plots interactive;
+* 8 — Create a package for the project, and deploy it.
